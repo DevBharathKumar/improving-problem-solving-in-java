@@ -1,4 +1,4 @@
-package org.bharath.problemsolving;
+package org.bharath.problemsolving.qspidersjavaproblems;
 
 public class DifferenceBetweenPrintlnAndPrint {
 
