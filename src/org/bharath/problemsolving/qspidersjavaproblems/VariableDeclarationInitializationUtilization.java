@@ -5,7 +5,7 @@ public class VariableDeclarationInitializationUtilization {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Undestanding the variable declaration initialization and utilization");
+		System.out.println("Understanding the variable declaration initialization and utilization");
 		
 		//Variable declaration
 		int id;
@@ -21,6 +21,8 @@ public class VariableDeclarationInitializationUtilization {
 		System.out.println("Id is "+id);
 		System.out.println("Name is "+name);
 		System.out.println("Marks is "+marks);
+		
+		System.out.println("***********************************************************************");
 
 	}
 
